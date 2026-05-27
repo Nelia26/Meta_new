@@ -1,0 +1,49 @@
+{
+  "project": "Demo",
+  "rows": [
+    {
+      "stage": "Awareness",
+      "audience": "Широка / інтереси",
+      "targeting": "18–45, Україна, інтереси: маркетинг, e-commerce",
+      "offer": "Безкоштовний чек-лист",
+      "creative": "Відео 15с + меседж",
+      "placements": "Reels, Stories, Feed",
+      "optimization_event": "Reach",
+      "kpi": "CPM, Reach, ThruPlay",
+      "budget": "₴___/день"
+    },
+    {
+      "stage": "Consideration",
+      "audience": "Lookalike 1–3%",
+      "targeting": "Схожі на відвідувачів сайту",
+      "offer": "Демо/пробний період",
+      "creative": "Карусель кейсів + CTA",
+      "placements": "Feed, Stories",
+      "optimization_event": "Link Clicks",
+      "kpi": "CPC, CTR, LPV",
+      "budget": "₴___/день"
+    },
+    {
+      "stage": "Conversion",
+      "audience": "Ретаргетинг 7–14 днів",
+      "targeting": "Відвідувачі сайту/додавали в кошик",
+      "offer": "Знижка 10%",
+      "creative": "Банер + офер",
+      "placements": "Feed, Stories",
+      "optimization_event": "Purchase",
+      "kpi": "CPA, CVR, Purchases",
+      "budget": "₴___/день"
+    },
+    {
+      "stage": "Retention",
+      "audience": "Покупці 180 днів",
+      "targeting": "Custom audience клієнтів",
+      "offer": "Крос-сел/ап-сел",
+      "creative": "Банер з новинкою",
+      "placements": "Feed",
+      "optimization_event": "Purchase",
+      "kpi": "ROAS, повторні покупки",
+      "budget": "₴___/день"
+    }
+  ]
+}
